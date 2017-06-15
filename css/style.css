@@ -585,15 +585,15 @@ section {
     font-family: arial;
 }
 #send-btn {
-    background: #3D70BD;
-    border: none;
-    border-radius: 50%;
-    color: #E4ECFA;
+    background: #eceff1;
+    border: 48%;
+    border-radius: 48%;
+    color: #607d8b;
     cursor: pointer;
     display: block;
     width: 70px;
     height: 70px;
-    font: 300 15px 'open sans', sans-serif;
+    font: 300 16px 'open sans', sans-serif;
     line-height: 70px;
     letter-spacing: 2px;
     margin-top: 10px;
@@ -604,8 +604,8 @@ section {
     float: right;
 }
 #send-btn:hover {
-    color: #FFF;
-    background: #417FCE;
+    color: #455a64;
+    background: #eceff1;
 }
 #send-btn:before {
     border-radius: 100px;
